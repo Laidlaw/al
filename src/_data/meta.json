@@ -1,0 +1,16 @@
+{
+  "title" : "Alan Laidlaw",
+  "subtitle": "An Edward Tufte flavored blogging template for Eleventy",
+  "url": "https://alanlaidlaw.netlify.app",
+  "feedUrl": "/feed.xml",
+  "lang": "en",
+  "author": {
+    "name": "Alan Laidlaw",
+    "email": "alanlaidlaw@gmail.com"
+  },
+  "social": {
+    "twitter": "http://twitter.com/alanlaidlaw",
+    "github": "https://github.com/laidlaw",
+    "linkedin": "https://linkedin.com/in/alanlaidlaw"
+  }
+}

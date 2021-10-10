@@ -38,23 +38,21 @@ The product, set to launch the next week, was fundamentally broken. It was like 
 
 [^6]:And I was enchanted immediately.
 
-This is how I got into product management, via conflict resolution. 
+This is how I got into product management, via conflict resolution. "Teams" are a group of folks that are dumped in a strange place. It doesn't matter how they got there, but it's important to hear them out. That's the only way you can get them fascinated in the mystery around them.[^7]
 
-"Teams" are a group of folks that are dumped in a strange place. It doesn't matter how they got there. There's a lot of mismatch and miscommunication. I think it's important to listen to that. Because then you get them listen to the strange place. Sometimes its a simple as getting some developers to watch a person use something they built. Its incredible how quickly they can become fascinated with the strange place. [^7]
-
-[^7]: Spoiler: I solved the problem this time by playing ambassador between the devs and designers. There's no solving real "problem." Sometimes dissonance is a feature... 
+[^7]: We were able to identify the problems and launch the product. There will always be dissonance and sometimes that's good.
 
 ## Undiscovered Country
 
-I’m so lucky to have found the web when I did because it’s been like an endless science project. That’s still true today. Every job I’ve taken has been, in part, because it involved some part of the stack that I don’t understand. [^7]
+I lucked out. I happened to stumble onto the web at a time when it easy to bootstrap yourself. Since then, it’s been an endless science project. Every job I’ve taken has been, in part, because it involved some part of the stack that I don’t understand.[^8]
 
-But it doesn’t end with technology. In order to design the future, you have to also understand human systems and what drives those systems. The benefit of working in tech is being able to work across a spectrum of industries at various inflection points. 
+[^8]: I’ve worked in agencies, enterprises, and startups as a developer, a UX architect, product manager, and solutions engineer. I’ve been a freelancer, consultant, director of product, and VP.
 
-[^7]: I’ve been able to see tech, telecom, retail, and media industries from the inside as they wrestled with last mile potholes on the path to digital transformation. And I’ve built tools to designed to ease those pain points.
+But it doesn’t end with technology. In order to design the future, you have to also understand human systems and what drives those systems. The benefit of working in tech is being able to work across a spectrum of industries at various inflection points.[^9]
 
-I’ve worked in agencies, enterprises, and startups as a developer, a UX architect, product manager, and solutions engineer. I’ve been a freelancer, consultant, director of product, and VP. [^6]
+[^9]:I’ve been able to see tech, telecom, retail, and media industries from the inside as they wrestled with last mile potholes on the path to digital transformation. And I’ve built tools to designed to ease those pain points. Here are some lessons I've learned along the way.
 
-[^6]: read more about my [exploits](/history) here.
+I get paid to architect solutions, design products and build teams. But there is a part of me that will always be a storyteller. Each job I’ve had has been part research, part anthropology, part trek to some unknown ecosystem.[^10]
 
-I get paid to architect solutions, design products and build teams. But there is a part of me that will always be a storyteller. Each job I’ve had has been part research, part anthropology, part trek to some unknown ecosystem.
+[^10]: Read more about my [exploits](/history) here.
 

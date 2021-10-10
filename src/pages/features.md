@@ -17,19 +17,17 @@ During a heated yak-shaving conversation about enhancements to our site[^autogra
 
 [^autogram]: {-} Karen and Ethan are my partners in crime at [Autogram](https://autogram.is), a freshly-minted strategic consultancy for companies with complicated content needs. If "establishing a consistent domain vocabulary and grammar to streamline design system iteration for complex high-variance content" sounds thrilling to you, hire us.
 
-A few specific formats are supported, with different results: `[^foonote-id]` markers in a paragraph are paired with `[^footnote]: Footnote text` below the paragraph in which they appear; they get numbered automatically.[^eg] For a *margin note,* with no accompanying number, just add a goofy symbol before the footnote text like so:
+A few specific formats are supported, with different results: `[^foonote-id]` markers in a paragraph are paired with [^footnote] below the paragraph in which they appear; they get numbered automatically.[^eg] For a *margin note,* with no accompanying number, just add a goofy symbol before the footnote text like so:
 
-```
+
 [^footnote]: {-} This text will appear in the margin without a number.
-```
+[^eg]: For example, this little guy.
 
 Completely inlined sidenotes — ones without explicit markers in the rest of the text — can be done like so:
 
-```
 [^ {-} A little fussy, but not bad once you get used to it.]
-```
 
-[^eg]: For example, this little guy.
+
 
 ## Blockquotes and Epigraphs
 

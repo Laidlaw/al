@@ -3,7 +3,15 @@
   <head>
 		{% include "head.njk" %}
   </head>
+  <header>
+      <ul class="nav">
+      {%- for entry in collections.all | eleventyNavigation %}
+        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+      {%- endfor %}
+      </ul>
+    </header>
   <body>
+
 		<article>
 		<h1>{{ title | markdownInline | safe }}</h1>
 		{% if subtitle %}<p class="subtitle">{{ subtitle | markdownInline | safe }}</p>{% endif %}
